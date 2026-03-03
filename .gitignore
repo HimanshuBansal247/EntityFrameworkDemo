@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+.vs/
+[Bb]in/
+[Obj]/
+*.user
+*.suo
+*.cache
+
+# Entity Framework specific
+*.db
